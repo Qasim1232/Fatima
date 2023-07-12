@@ -1,0 +1,27 @@
+/* *{
+    Padding Opx;
+    Margin Opx; */
+    /* } */
+    h1{ 
+        background-color: gray;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font: size 35px;;
+         text-align: center;
+        color: blueviolet;
+    }
+    /* Create two colums/boxes that floats next to each other */
+    nav{
+        width: 30%;
+        height: 300px;
+
+    }
+    ul{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 30px;
+        color:darkslateblue
+    }
+    p{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        color: indigo;
+    }
